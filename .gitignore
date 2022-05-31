@@ -1,3 +1,9 @@
+# config
+config.py
+
+# large data file
+Iowa_Liquor_Sales.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
